@@ -6,7 +6,8 @@ Puzzler Architecture:
 - OMG.py is to generate offensive strategies  
 - jailbreak.py is to jailbreak LLM
 
-
+# Experiment Setup  
+We maintained the default configuration of GPT-3.5, GPT-4, and GPT-4 Turbo with temperature = 1 and top_n = 1
 
 # Run the code
 python OMG.py  
