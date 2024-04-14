@@ -9,6 +9,8 @@ Puzzler Architecture:
 Updated Result:  
 ![Image text](https://github.com/czycurefun/IJBR/blob/main/fig/new_result.jpg)
 
+![Image text](https://github.com/czycurefun/IJBR/blob/main/fig/new_defense_result.jpg)
+
 # Experiment Setup  
 We maintained the default configuration of GPT-3.5, GPT-4, and GPT-4 Turbo with temperature = 1 and top_n = 1
 
